@@ -1,0 +1,26 @@
+html{width: 325px;}
+body{width: 331px;}
+div.outter{border-style: groove;
+    width: 325px;}
+div.inner{border-style: groove;
+    width: 300px;
+    margin-left: 10px;
+    margin-bottom: 10px;}
+
+
+h3.name{margin-left: 10px;
+width: 300px;}
+img{width: 300px;margin-left: 10px;
+    margin-bottom: 10px;
+    border-style: solid;}
+p.fact{font-style: italic;text-align: start;
+    margin: 5px;
+    width: 300px;}
+
+ul{list-style-type: none;
+    margin-left: -35px;
+    width: 300px;
+    text-align: initial;}
+span{font-weight: bold;}
+p.info{margin: 5px;
+    width: 300px;}
